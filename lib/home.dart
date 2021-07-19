@@ -19,7 +19,7 @@ class Home extends StatelessWidget {
               children: <Widget>[
                 CircleAvatar(
                   radius: 80,
-                  backgroundImage: AssetImage("images/sample.png"),
+                  backgroundImage: AssetImage("images/sample.jpeg"),
                 ),
                 ListTile(
                   title: Center(
