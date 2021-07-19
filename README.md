@@ -1,4 +1,4 @@
-# flutter_app
+# profile-ui-flutter
 
 A new Flutter application.
 
